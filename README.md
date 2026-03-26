@@ -75,3 +75,4 @@ python "SMA2 Title Screen Editor.py"
 | `V` | Flip tiles vertically |
 
 ---
+update test
