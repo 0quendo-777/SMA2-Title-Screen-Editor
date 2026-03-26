@@ -4,6 +4,8 @@ A Graphical User Interface (GUI) tool developed in Python and PyQt6 to edit the 
 
 This editor allows you to visually and intuitively modify the tile layout, apply different color palettes, and save the changes directly to your ROM file.
 
+![Screenshot](screenshot.png)
+
 ---
 
 ## Key Features
