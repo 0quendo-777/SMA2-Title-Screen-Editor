@@ -2,7 +2,7 @@
 
 A Graphical User Interface (GUI) tool developed in Python and PyQt6 to edit the title screen (Layer 1 map and palettes) of **Super Mario World: Super Mario Advance 2** for the Game Boy Advance (GBA).
 
-This editor allows you to visually and intuitively modify the tile layout, apply different color palettes, and save the changes directly to your ROM file.
+This editor allows you to visually and intuitively modify the tile layout, apply different color palettes, and save the changes directly to your ROM file. By Oquendo :D
 
 ![Screenshot](assets/screenshot.png)
 
